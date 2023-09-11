@@ -1,0 +1,115 @@
+.home{
+    color: white;
+    padding: 3rem;
+    background-color: black;
+}
+
+.home .col-8{
+    color: white;
+    text-align: center;
+}
+
+/* .home p{
+    padding: 20px;
+} */
+
+.paddingtopbtm10{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.main-btn{
+    color: white;
+    background-color: green;
+    border: 1px solid white;
+    padding: 10px 20px;
+    /* margin-top: 30px; */
+}
+
+.about{
+    padding: 20px;
+}
+
+.about p:first-child{
+    margin-top: 60px;
+}
+
+span{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+span + p{
+    font-size: 0.8rem;
+}
+
+.icons{
+    width: 1.5rem;
+}
+
+.col-6 .col-3{
+    padding: 2rem 1rem;
+}
+
+.charges{
+    text-align: center;
+}
+
+.charges p + h2{
+    padding: 1rem;
+}
+
+.charges img{
+    width: 60%;
+}
+
+.video{
+    margin: 1rem;
+}
+
+.why-us img{
+    padding: 30px;
+}
+
+.offer{
+    background-color: black;
+    color: white;
+    padding: 3rem;
+    text-align: center;
+}
+
+.faq{
+    text-align: center;
+}
+
+.faq .row{
+    padding: 1rem;
+    text-align: left;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.hide{
+    display: none;
+}
+
+footer{
+    color: white;
+    background-color: black;
+}
+
+footer a{
+    color: white;
+}
+
+.top{
+    font-size: larger;
+    color: gold;
+}
+
+.adjust{
+    margin-top: 3rem;
+}
+
